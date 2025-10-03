@@ -1,5 +1,5 @@
 ---
-title: Python ile Programlama Temelleri Ders Planı
+Python ile Programlama Temelleri Ders Planı
 ---
 
 # 1. Hafta -- Programlamaya Giriş
